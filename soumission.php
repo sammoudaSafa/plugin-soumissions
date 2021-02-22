@@ -18,7 +18,11 @@
 //  if(file_exists(dirname(__FILE__).'/vendor/autoload.php')){
 //    require_once dirname(__FILE__).'/vendor/autoload.php';
 
-   use WerkContact\Init;
+   use SoumissionContact\Init;
+
+//  }
+// require __DIR__ . '/vendor/autoload.php';
+
+// use WerkContact\Init;
 
 new Init();
-//  }

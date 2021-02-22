@@ -7,7 +7,7 @@ class CostumPostSoumission{
     public function __construct()
     {
         $this->create_post_type();   
-        $this->create_contact_taxonomy();
+        // $this->create_contact_taxonomy();
     }
     public function create_post_type(){
         $labels = [
