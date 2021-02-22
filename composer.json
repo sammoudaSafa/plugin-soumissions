@@ -1,0 +1,12 @@
+{
+    "name": "ecoles/soumissions",
+    "description": "plugin pour les soumissions",
+    "authors": [
+        {
+            "name": "SAFA",
+            "email": "sammoudasaffa@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
