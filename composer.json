@@ -1,15 +1,10 @@
 {
-    "name": "ecoles/soumissions",
-    "description": "plugin pour les soumissions",
-    "authors": [
-        {
-            "name": "SAFA",
-            "email": "sammoudasaffa@gmail.com"
+    "name": "jplambert/baseplugin",
+    "type": "wordpress-plugin",
+    "description": "pluuuuuuugin",
+    "autoload": {
+        "psr-4": {
+            "WerkContact\\": "classes"
         }
-    ],
-    "minimum-stability": "dev",
-    "require": {},
-    "autoload":{
-        "psr-4":{"Inc//":"./inc"}
     }
 }

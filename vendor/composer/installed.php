@@ -1,24 +1,24 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => 'dev-master',
-    'version' => 'dev-master',
+    'pretty_version' => '1.0.0+no-version-set',
+    'version' => '1.0.0.0',
     'aliases' => 
     array (
     ),
-    'reference' => '2d5d7d938cdd9ed310f19ffc93c0f0d6233c2e9e',
-    'name' => 'ecoles/soumissions',
+    'reference' => NULL,
+    'name' => 'jplambert/baseplugin',
   ),
   'versions' => 
   array (
-    'ecoles/soumissions' => 
+    'jplambert/baseplugin' => 
     array (
-      'pretty_version' => 'dev-master',
-      'version' => 'dev-master',
+      'pretty_version' => '1.0.0+no-version-set',
+      'version' => '1.0.0.0',
       'aliases' => 
       array (
       ),
-      'reference' => '2d5d7d938cdd9ed310f19ffc93c0f0d6233c2e9e',
+      'reference' => NULL,
     ),
   ),
 );

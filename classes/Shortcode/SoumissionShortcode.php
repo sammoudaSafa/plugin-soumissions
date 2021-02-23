@@ -1,7 +1,7 @@
 <?php
-namespace WerkContact\Shortcode;
+namespace SoumissionContact\Shortcode;
 
-class WerkShortcode
+class SoumissionShortcode
 {
     public function __construct(){
         add_shortcode( 'werk_contact_registration', [$this, 'registration_shortcode'] );
